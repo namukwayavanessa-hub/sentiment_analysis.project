@@ -97,5 +97,5 @@ Empty text is rejected with a `400` error ("Text cannot be empty").
 
 ## Who did what
 
-- **Member A (FIRSTNAME):** ____
-- **Member B (FIRSTNAME):** ____
+- **Member A (Jimia):** uploaded the sentiment model to hugging face, made the Chatbot
+- **Member B (Vanessa):** created the GitHub repo, loaded the model from hugging face explored, cleaned the model and Updated the Readme file
